@@ -98,6 +98,3 @@
 > Install django and other required dependencies.Also make sure to have installed Python and Pip.<br>
 > Run 'python manage.py runserver' in the command line to run the website on local host.
 
-## App Info
-
-### Author [Yash Jhaveri](https://www.linkedin.com/in/yash-jhaveri-3b0882192/)
